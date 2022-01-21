@@ -1,21 +1,15 @@
-### Hi there 👋
+### Hello-bro 👋
 
 
-**bxy4543/bxy4543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `china(西安)`
+- 🌱 I’m currently learning golang language
+- 🤔 I'm looking for help to make myself stronger
+- 💬 Ask me about golang, java, shell, docker, linux, kubernetes ...
+- 📫 How to reach me: I'm everywhere
+- 😄 Pronouns: `彦祖`
+- ⚡ Fun fact: fun fact infact not fun
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=bxy4543&rank=SECRET,SSS,SS,S,A,AAA,B,C&column=3&no-bg=true)](https://github.com/bxy4543/github-profile-trophy)
 
 
-
-![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxy4543)](https://github.com/anuraghazra/github-readme-stats)
-![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxy4543&show_icons=true)
-![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxy4543&show_icons=true&theme=dark)
+![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxy4543&show_icons=true&theme=dark&count_private=true)
