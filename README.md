@@ -9,7 +9,7 @@
 - 😄 Pronouns: `彦祖`
 - ⚡ Fun fact: fun fact infact not fun
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bxy4543&rank=SECRET,SSS,SS,S,A,AAA,B,C&column=3&no-bg=true)](https://github.com/bxy4543/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bxy4543&rank=SECRET,SSS,SS,S,A,AAA,B&column=3&no-bg=true)](https://github.com/bxy4543/github-profile-trophy)
 
 
 ![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxy4543&show_icons=true&theme=dark&count_private=true)
